@@ -12,3 +12,4 @@ lets get this project done and satisfy the client with my work
 2-Mar
 Uderika project still in motion.
 Working on improving the front-end to suite the each osf its sections 
+clinet hasnt sent files i need to redesign.
