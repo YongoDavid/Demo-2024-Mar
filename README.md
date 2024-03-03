@@ -16,3 +16,4 @@ clinet hasnt sent files i need to redesign.
 Chill day after a while ,buut tomorrow we are back on that grind.
 
 3-Mar
+Daily dose and uderika project
