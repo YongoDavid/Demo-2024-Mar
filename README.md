@@ -19,3 +19,4 @@ Chill day after a while ,buut tomorrow we are back on that grind.
 Daily dose and uderika project
 Swiper.js giving me a challenge.
 still trying to figure out what the issue is ,went through the whole code and syntax is alright.
+Might try another method instead of downloading the assets.
