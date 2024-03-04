@@ -22,3 +22,4 @@ still trying to figure out what the issue is ,went through the whole code and sy
 Might try another method instead of downloading the assets.
 
 4-Mar
+New week , time for new hur daily dose.
