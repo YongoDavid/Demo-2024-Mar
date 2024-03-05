@@ -29,3 +29,4 @@ i will improve design and functionality as time goes by.
 5-Mar
 Uderika still in progress.
 There hero swiper is complete, whats left is to update with the real files.
+The books section has some issues , i need to resolve.
