@@ -25,3 +25,5 @@ Might try another method instead of downloading the assets.
 New week , time for new hur daily dose.
 Home section swiper is not working , and download bookss section swiper is now also working as they should.
 i will improve design and functionality as time goes by.
+
+5-Mar
