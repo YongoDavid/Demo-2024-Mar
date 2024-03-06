@@ -37,3 +37,4 @@ Another day , another daily dose.
 home back and guides section 80% done. , now i need to clean up some code for those two sections.
 might has to restructure and bring back some old codes.
 some of the raw files are now available for me to use in the project , this will make production easier.
+i dont have to be assuming and using dummyy content for some of the sections.
