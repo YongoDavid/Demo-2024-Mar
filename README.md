@@ -34,3 +34,4 @@ books section issue has been resolved.
 
 6-Mar
 Another day , another daily dose.
+home back and guides section 80% done. , now i need to clean up some code for those two sections.
