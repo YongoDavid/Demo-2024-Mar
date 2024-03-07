@@ -1,6 +1,6 @@
 # Demo-2024-Mar
 Been an amazing year soo far , its already 3 months in. i have been going and i wont stop.
-i am a developer and i have solved aloot of problems using code.
+i am a developer and i have solved alot of problems using code.
 
 YOU ARE AMAZING DAVID , KEEP PROGRAMMING NO MATTER HOW HARD IT GETS , IF IT WAS EASY EVERYONE WOULD BE DOING IT
 STAY CONSISTENT MY BOY!
@@ -38,3 +38,5 @@ home back and guides section 80% done. , now i need to clean up some code for th
 might has to restructure and bring back some old codes.
 some of the raw files are now available for me to use in the project , this will make production easier.
 i dont have to be assuming and using dummyy content for some of the sections.
+
+7-Mar
