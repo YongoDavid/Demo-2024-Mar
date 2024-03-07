@@ -41,4 +41,5 @@ i dont have to be assuming and using dummyy content for some of the sections.
 
 7-Mar
 Another 8hr daily dose.
-did not complete my dailt dose today , sadly cause life comes with its own plans
+did not complete my dailt dose today , sadly cause life comes with its own plans.
+was able tot run half of my daily dose and just stay positive.
