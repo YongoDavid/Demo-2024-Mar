@@ -44,3 +44,5 @@ Another 8hr daily dose.
 did not complete my dailt dose today , sadly cause life comes with its own plans.
 was able tot run half of my daily dose and just stay positive.
 Audio and main book section updated and i arranged my code , to read properly.
+
+8-Mar
