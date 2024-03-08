@@ -47,3 +47,4 @@ Audio and main book section updated and i arranged my code , to read properly.
 
 8-Mar
 Back at it again for my daily dose.
+First page for mobile view 80% done.
