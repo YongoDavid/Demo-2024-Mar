@@ -46,3 +46,4 @@ was able tot run half of my daily dose and just stay positive.
 Audio and main book section updated and i arranged my code , to read properly.
 
 8-Mar
+backk at it again for my daily dose.
