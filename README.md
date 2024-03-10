@@ -51,3 +51,4 @@ First page for mobile view 80% done.
 need to start thinking of how i will redesign the destop/laptop view for uderika
 
 9-Mar
+uderika project books page almost complete.
