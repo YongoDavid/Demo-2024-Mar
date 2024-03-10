@@ -52,3 +52,6 @@ need to start thinking of how i will redesign the destop/laptop view for uderika
 
 9-Mar
 uderika project books page almost complete.
+
+10-Mar
+i need to do the finishing touches to the books page.
