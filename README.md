@@ -63,3 +63,4 @@ i need to put in more work for the uderika project.
 Soo far it is going well, just a few more changes to be made on the pages.
 
 12-Mar
+Been working on one clinets project (uderika) for over a week now.
