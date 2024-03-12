@@ -64,3 +64,4 @@ Soo far it is going well, just a few more changes to be made on the pages.
 
 12-Mar
 Been working on one clinets project (uderika) for over a week now.
+1st half of the project alomst done with.
