@@ -68,3 +68,4 @@ Been working on one clinets project (uderika) for over a week now.
 Second half of the project will be its functionality.
 
 13-Mar
+Client made some corrections , its time to impliment those corrections 
