@@ -71,3 +71,4 @@ Second half of the project will be its functionality.
 Client made some corrections , its time to impliment those corrections 
 
 14-Mar
+Front-end Design and structure 70% done for the uderika project.
