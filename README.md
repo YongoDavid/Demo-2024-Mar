@@ -73,3 +73,5 @@ Client made some corrections , its time to impliment those corrections
 14-Mar
 Front-end Design and structure 70% done for the uderika project.
 i am leaving the front-end for now , to come back later. Time to start the back-end.
+
+15-Mar
