@@ -77,3 +77,4 @@ i am leaving the front-end for now , to come back later. Time to start the back-
 15-Mar
 still handling the back-end to this project.
 Another day to continue with the uderika project.
+Another front-end desgin update , trying to optimize the design each time to make it better.
