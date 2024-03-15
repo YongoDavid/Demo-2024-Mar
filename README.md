@@ -75,3 +75,4 @@ Front-end Design and structure 70% done for the uderika project.
 i am leaving the front-end for now , to come back later. Time to start the back-end.
 
 15-Mar
+still handling the back-end to this project.
