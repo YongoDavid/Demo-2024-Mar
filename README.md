@@ -82,3 +82,4 @@ Another front-end desgin update , trying to optimize the design each time to mak
 17-Msr
 uderika health projrct still in process.
 Re-design done for home and books pages.
+Typography for these two pages complete. 
