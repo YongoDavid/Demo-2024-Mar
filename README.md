@@ -79,7 +79,7 @@ still handling the back-end to this project.
 Another day to continue with the uderika project.
 Another front-end desgin update , trying to optimize the design each time to make it better.
 
-17-Msr
+16-Mar
 uderika health projrct still in process.
 Re-design done for home and books pages.
 Typography for these two pages complete. 
