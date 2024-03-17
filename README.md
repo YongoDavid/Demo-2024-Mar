@@ -86,3 +86,4 @@ Typography for these two pages complete.
 
 17-Mar
 Dont work on sundays , but i need to get work done ( so why not )
+About page now complete.
