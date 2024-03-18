@@ -93,3 +93,4 @@ Server also working well.
 18-Mar
 Uderika project still in progress.
 Client loves how everything has tunred out sooo far. 
+it is time to focus on functionality now.
