@@ -96,3 +96,4 @@ Client loves how everything has tunred out sooo far.
 it is time to focus on functionality now.
 
 19-Mar
+Trying to figure out how to use FTP , to help the website users be able to download the books on the website.
