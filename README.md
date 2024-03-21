@@ -107,3 +107,4 @@ To download the PDF from the website i , still have to figure that out.
 Might ue pure HTML and javascript or use FTP (file transfer protocol) system.
 
 21-Mar
+My daily dose times have really changed this week.
