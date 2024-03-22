@@ -112,3 +112,4 @@ Uderika project still on going , managing the downloadable files with google doc
 started my silicon valley software development course.
 
 22-Mar
+Google docs seems to not be working anymore for the files download
