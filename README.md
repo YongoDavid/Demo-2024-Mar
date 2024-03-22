@@ -110,3 +110,5 @@ Might ue pure HTML and javascript or use FTP (file transfer protocol) system.
 My daily dose times have really changed this week.
 Uderika project still on going , managing the downloadable files with google doc.
 started my silicon valley software development course.
+
+22-Mar
