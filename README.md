@@ -119,3 +119,4 @@ Also in my S.D class got to boost my terminal using skills with new command.
 New commnadss like ( touch , cd .. , cat , ls -l ).
 
 23-Mar
+Both Form (Newsletter and Books Download) functionality done.
