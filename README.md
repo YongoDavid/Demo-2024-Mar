@@ -120,4 +120,5 @@ New commnadss like ( touch , cd .. , cat , ls -l ).
 
 23-Mar
 Both Form (Newsletter and Books Download) functionality done.
-i havent figured out the autoomatic download for the links yet ( this is up next )
+i havent figured out the automatic download for the links yet ( this is up next )
+i dont know if i  shoould use FTP or i should just try another way with google Docs.
