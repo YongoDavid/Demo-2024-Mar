@@ -117,3 +117,5 @@ the links are woeking normally, but on the main site when the button is clicked 
 might try using the FTP method i was avioding , maybe that will work.
 Also in my S.D class got to boost my terminal using skills with new command.
 New commnadss like ( touch , cd .. , cat , ls -l ).
+
+23-Mar
