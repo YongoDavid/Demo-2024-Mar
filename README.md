@@ -120,3 +120,4 @@ New commnadss like ( touch , cd .. , cat , ls -l ).
 
 23-Mar
 Both Form (Newsletter and Books Download) functionality done.
+i havent figured out the autoomatic download for the links yet ( this is up next )
