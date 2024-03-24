@@ -124,3 +124,4 @@ i havent figured out the automatic download for the links yet ( this is up next 
 i dont know if i  shoould use FTP or i should just try another way with google Docs.
 
 24-Mar
+trying to use AI to help me resolve this pdf download issue
