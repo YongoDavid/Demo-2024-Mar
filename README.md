@@ -132,3 +132,4 @@ S.D course going well.
 PDF links are working now in production.
 i will test them now after hosing live.
 PDF links working well when hosted.
+i need to figure out the audio file link not working.
