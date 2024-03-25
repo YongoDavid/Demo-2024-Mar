@@ -127,3 +127,6 @@ i dont know if i  shoould use FTP or i should just try another way with google D
 trying to use AI to help me resolve this pdf download issue.
 today is sunday i am meant too rest but , there is soo much pending , i got to run it up.
 S.D course going well.
+
+25-Mar
+
