@@ -135,3 +135,4 @@ PDF links working well when hosted.
 i need to figure out the audio file link not working.
 
 26-Mar
+All books download links are working now.
