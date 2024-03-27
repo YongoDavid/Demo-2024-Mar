@@ -139,3 +139,4 @@ All books download links are working now.
 
 27-Mar
 Rebuildimg server.
+My server should only handle the emails and sending them to the database.
