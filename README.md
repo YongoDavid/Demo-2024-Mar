@@ -141,3 +141,6 @@ All books download links are working now.
 Rebuildimg server.
 My server should only handle the emails and sending them to the database.
 no need for the server to handle the books logic i can leave them foe the client
+
+28-Mar
+Testing new server.
