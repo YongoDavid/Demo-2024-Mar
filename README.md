@@ -147,3 +147,4 @@ Testing new server.
 i am confused at this point , my server is not working since a rebuilt it.
 Database connection to Mysql is working , but no query has been made for it.
 Fetch API also not working for form data.
+Still need to review fetch API and try it again to know where the problem is coming from.
