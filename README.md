@@ -138,9 +138,10 @@ i need to figure out the audio file link not working.
 All books download links are working now.
 
 27-Mar
-Rebuildimg server.
+Rebuilding server.
 My server should only handle the emails and sending them to the database.
 no need for the server to handle the books logic i can leave them foe the client
 
 28-Mar
 Testing new server.
+i am confused at this point , my server is not working since a rebuilt it.
