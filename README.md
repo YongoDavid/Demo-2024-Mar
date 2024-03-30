@@ -154,3 +154,4 @@ In programming sometimes , i have to unlearn and relean and i am at that point o
 i have to relearn Fetch api , to be able too know why my api from client to server.
 
 30-Mar
+The automatic downloads for the pdf and audio files are are now working.
