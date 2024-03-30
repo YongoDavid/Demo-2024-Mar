@@ -152,3 +152,5 @@ Still need to review fetch API and try it again to know where the problem is com
 29-Mar
 In programming sometimes , i have to unlearn and relean and i am at that point of relearning now.
 i have to relearn Fetch api , to be able too know why my api from client to server.
+
+30-Mar
