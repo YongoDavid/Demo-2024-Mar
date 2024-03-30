@@ -155,3 +155,4 @@ i have to relearn Fetch api , to be able too know why my api from client to serv
 
 30-Mar
 The automatic downloads for the pdf and audio files are are now working.
+And finally , the form data for books and newsletter working.
