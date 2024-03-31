@@ -160,3 +160,4 @@ Both are sending data form clinet and the Server is reciving and logging it to t
 Next step is to send all the data from the server to the database.
 
 31-Mar
+Newsletter email and Books email are sending together to the same route and not seperate anymore.
