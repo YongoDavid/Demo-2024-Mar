@@ -162,3 +162,4 @@ Next step is to send all the data from the server to the database.
 31-Mar
 Newsletter email and Books email are sending together to the same route and not seperate anymore.
 Still need to create an admin page for the client to be able to see the emails to those that have sent thier emails.
+or find a way too send email notifications.
