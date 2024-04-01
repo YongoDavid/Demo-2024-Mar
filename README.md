@@ -11,9 +11,9 @@ lets get this project done and satisfy the client with my work
 
 2-Mar
 Uderika project still in motion.
-Working on improving the front-end to suite the each osf its sections 
+Working on improving the front-end to suite the each of its sections 
 clinet hasnt sent files i need to redesign.
-Chill day after a while ,buut tomorrow we are back on that grind.
+Chill day after a while ,but tomorrow we are back on that grind.
 
 3-Mar
 Daily dose and uderika project
@@ -164,3 +164,6 @@ Newsletter email and Books email are sending together to the same route and not 
 Still need to create an admin page for the client to be able to see the emails to those that have sent thier emails.
 or find a way too send email notifications.
 still done know what i will use to create this admin panel , mayne javascript or PHP ( meaning i will need too learn PHP) just to be able to finish this project.
+
+MARCH HAS FINALLY COME TO AN END , ANOTHER ANAMZIMG MONTH IN 2024 FOR BEING A DEVELOPER.
+CONSISTENCY IS KEY , AND THAT IS WHAT I AM ON.
